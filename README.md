@@ -12,7 +12,7 @@ Output: Generate a noun as closely related to the nouns in the input
 - Parse each line as a single element OR breakdown line into nouns and store each group of nouns as an array which is 1 element of the master array
 - Each noun in one sentence gains a rank (vary rank based on sentence, paragraph, page)
 - Generate a spread map for each word
-
+- Return the word at which the two words intersect
 
 ### Strategy 2
 
